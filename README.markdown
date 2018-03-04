@@ -1,10 +1,10 @@
 [![Build Status](https://travis-ci.org/ckan/losser.svg)](https://travis-ci.org/ckan/losser)
 [![Coverage Status](https://img.shields.io/coveralls/ckan/losser.svg)](https://coveralls.io/r/ckan/losser)
-[![Latest Version](https://pypip.in/version/losser/badge.svg)](https://pypi.python.org/pypi/losser/)
-[![Downloads](https://pypip.in/download/losser/badge.svg)](https://pypi.python.org/pypi/losser/)
-[![Supported Python versions](https://pypip.in/py_versions/losser/badge.svg)](https://pypi.python.org/pypi/losser/)
-[![Development Status](https://pypip.in/status/losser/badge.svg)](https://pypi.python.org/pypi/losser/)
-[![License](https://pypip.in/license/losser/badge.svg)](https://pypi.python.org/pypi/losser/)
+[![Latest Version](https://img.shields.io/pypi/v/losser.svg)](https://pypi.python.org/pypi/losser/)
+[![Downloads](https://img.shields.io/pypi/dm/losser.svg)](https://pypi.python.org/pypi/losser/)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/losser.svg)](https://pypi.python.org/pypi/losser/)
+[![Development Status](https://img.shields.io/pypi/status/losser.svg)](https://pypi.python.org/pypi/losser/)
+[![License](https://img.shields.io/pypi/l/losser.svg)](https://pypi.python.org/pypi/losser/)
 
 
 Losser
